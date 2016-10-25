@@ -1,6 +1,7 @@
 # Pooly
 
 **TODO: Add description**
+This is The Master Branch of the Pooly Application from Chapter 6 of "The Little Elixir & OTP Guide"
 
 ## Installation
 
