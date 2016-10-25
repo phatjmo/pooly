@@ -1,6 +1,8 @@
 # Pooly
 
 **TODO: Add description**
+This is Version 1 of the Pooly Application from Chapter 6 of "The Little Elixir & OTP Guide"
+
 
 ## Installation
 
